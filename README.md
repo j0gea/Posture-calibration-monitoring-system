@@ -34,7 +34,16 @@ Flow chart
 ![image](https://github.com/j0gea/Posture-calibration-monitoring-system/assets/137410154/89ce0bd3-fbaa-4102-b1b1-491cc387f5be)
 
 
+참고문헌
 --
+- [상현,<라즈베리파이에서RFID리더기를사용하기>,2022.11.25](https://velog.io/@gemnsh/%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC%ED%8C%8C%EC%9D%B4%EC%97%90%EC%84%9C-RFID%EB%A6%AC%EB%8D%94%EA%B8%B0-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+- [경걍,<RasberryPi에MySQL설치&workbench연결>,2022.07.29](https://kyumq.tistory.com/6)
+- [진의,<라즈베리파이7.MySQLDB설치및접속하기>,2017.12.10](https://blog.naver.com/wlsdml1103/221159758141)
+- [C#예제 공부일기, <RasberryPi : 파이썬 MariaDB 서버 커넥션>, 2020.07.30](https://smartfactory121.tistory.com/70)
+- [Raspberry Pi KR, <Raspberry Pi 와 함께 RFID 리더를 사용하십시오> , 2019.07](https://raspberry-pi.kr/rfid-raspberry-pi-8/)
+- [ZETA7, <라즈베리파이 두 대로 소켓 통신을 해보자, 파이썬 버전>, 2018.05.07](https://blog.naver.com/zeta0807/221269996160)
+- [Widgets and Gizmos - Wizmoz](https://wizmoz.blogspot.com/2013/01/simple-accelerometer-data-conversion-to.html?_sm_au_=iVVrPJjs44Sjbntq)
+
 
 이슈
 
