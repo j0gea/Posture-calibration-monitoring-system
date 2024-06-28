@@ -20,16 +20,16 @@
 Blueprint
 --
 
-![image](https://github.com/j0gea/Posture-calibration-monitoring-system-/assets/137410154/48da9327-c1ec-4dc7-aad7-096768cd4b1d)
+![image](https://github.com/j0gea/Posture-calibration-monitoring-system/assets/137410154/af7ebbe4-9767-4fb1-9646-de97f701bac9)
 
-![image](https://github.com/j0gea/Posture-calibration-monitoring-system-/assets/137410154/b3a3a279-823a-4804-b134-623be4d2e4f7)
+
+![image](https://github.com/j0gea/Posture-calibration-monitoring-system/assets/137410154/f27ddbee-23bc-478c-93cd-071e51185650)
+
 
 - [1] 왼쪽, 디바이스 형태, client -- 가속도 센서와 연결
 - [2] 오른쪽, 데이터베이스, Server -- RFID와 연결
 
-
 Flow chart
 --
-![image](https://github.com/j0gea/Posture-calibration-monitoring-system-/assets/137410154/cf867ce6-ccf1-4bcb-a594-b8868c68ba40)
-
+![image](https://github.com/j0gea/Posture-calibration-monitoring-system/assets/137410154/89ce0bd3-fbaa-4102-b1b1-491cc387f5be)
 
