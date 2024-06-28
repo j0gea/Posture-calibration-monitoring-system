@@ -33,3 +33,11 @@ Flow chart
 --
 ![image](https://github.com/j0gea/Posture-calibration-monitoring-system/assets/137410154/89ce0bd3-fbaa-4102-b1b1-491cc387f5be)
 
+
+--
+
+이슈
+
+- 스레드 관리
+- 필요없는 코드 삭제
+- 새창 여는 것이 아닌 한 UI 안에서 해결(안쪽 객체를 바꾸는 식으로)
